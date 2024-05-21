@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oxg2L4NdsWdY22NS+Ju/oHGEAr3uoR4/Ex5ktDxVaMn+sVUMjkN5AA1S5CHkrw+Q94ApFsnnUWWGoMW9ruqdw==",
+  "success": true,
+  "projectFilePath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakeningDiscordBot\\DreadAwakeningDiscordBot.csproj": {}
+  },
+  "projects": {
+    "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakeningDiscordBot\\DreadAwakeningDiscordBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakeningDiscordBot\\DreadAwakeningDiscordBot.csproj",
+        "projectName": "DreadAwakeningDiscordBot",
+        "projectPath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakeningDiscordBot\\DreadAwakeningDiscordBot.csproj",
+        "packagesPath": "C:\\Users\\joel\\.nuget\\packages\\",
+        "outputPath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakeningDiscordBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj": {
+                "projectPath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.15.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj",
+        "projectName": "DreadAwakening",
+        "projectPath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\DreadAwakening.csproj",
+        "packagesPath": "C:\\Users\\joel\\.nuget\\packages\\",
+        "outputPath": "D:\\laptop\\RiderProjects\\GodsUnchained\\ChatBots\\DreadAwakeningChatBotPublic\\DreadAwakening\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
