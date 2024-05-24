@@ -9,5 +9,6 @@ Run the bot:
  - users should now be able to type !collection {GU-id} in chat. where {GU-id} is the users Gods Unchained Id
 
 
-All code can be reviewed. You can make your own changes to the bot if desired. 
+All code can be reviewed. If you don't trust the exe, you can build the bot yourself using the available code.
+You can make your own changes to the bot if desired. 
 Code is delivered as is. 
